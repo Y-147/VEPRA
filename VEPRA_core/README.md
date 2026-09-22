@@ -5,7 +5,7 @@ This repository currently provides the core implementation of VEPRA for cross-su
 Available Code
 
 vepra.py: VEPRA model, DynamicFAP, reliability-guided routing, and prototype transfer.
-cssc.py: stimulus-conditioned prototype sampling and CSSC loss.
+cssc.py: Cross-Subject Semantic Consistency (CSSC) and high-level semantic alignment.
 adv.py: domain-adversarial learning components.
 prototype_confidence.py: prototype confidence estimation.
 
